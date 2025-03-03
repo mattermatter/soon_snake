@@ -1,4 +1,4 @@
-# How to Play Soon Snake 
+# How to Play SOON Snake 
 
 # Controls
 - Use the arrow keys on your keyboard to control the direction of the snake
